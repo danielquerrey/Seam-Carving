@@ -1,1 +1,3 @@
 # Seam-Carving
+
+This project showcased my skills in C++ programming, image processing, dynamic content resizing, algorithm implementation, error handling, code optimization, and object-oriented programming. This tool uses Seam Carving, enabling distortion-free image resizing while preserving essential content. By calculating pixel energy, I could measure the importance of each pixel in the image. Using certain functions for identifying and extracting seams with minimal energy in both vertical and horizontal directions, the application enables resizing and saving images with customizable target width and height. To handle various sizes of images, error handling was developed to ensure input images met requirements and provided informative error messages when necessary.
